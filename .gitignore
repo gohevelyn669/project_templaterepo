@@ -1,0 +1,29 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+*.log
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Environments ---
+.env
+.venv/
+*.sqlite3
+
+# --- Data and Results ---
+data/
+results/
+
+# --- OS Junk ---
+.DS_Store
+Thumbs.db
+
+# --- IDE/Editor ---
+.vscode/
+.idea/
